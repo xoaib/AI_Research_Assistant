@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+tavily-python
+beautifulsoup4
+python-dotenv
+requests
+rich
